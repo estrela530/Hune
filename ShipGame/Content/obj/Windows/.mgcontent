@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/K018A1697/Desktop/ShipGame/Content/Texture/backColor.png</File>
+    <File>C:/Users/K018A1697/Desktop/ShipGame/Content/Texture/Ending.png</File>
+    <File>C:/Users/K018A1697/Desktop/ShipGame/Content/Texture/Title.png</File>
+    <File>C:/Users/K018A1697/Desktop/ShipGame/Content/Texture/blue.png</File>
+    <File>C:/Users/K018A1697/Desktop/ShipGame/Content/Texture/green.png</File>
+    <File>C:/Users/K018A1697/Desktop/ShipGame/Content/Texture/orage.png</File>
+    <File>C:/Users/K018A1697/Desktop/ShipGame/Content/Texture/red.png</File>
+  </SourceFiles>
+</SourceFileCollection>
