@@ -50,10 +50,12 @@ namespace ShipGame.Scene
 
             ship = new Ship(new Vector2(), 0.0f, new Vector2(), gameDevice, gameObjectManager);
 
+            bermuda = new Bermuda(new Vector2(), new Vector2(),gameDevice, gameObjectManager);
+
             //プレイヤーにIDを設定
             gameObjectManager.Add(player);
             gameObjectManager.Add(ship);
-
+            gameObjectManager.Add(bermuda);
 
         }
 
